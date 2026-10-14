@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projet de session — Infrastructure MLOps pour la classification exploratoire du risque de diabète
 
 ## Résumé
@@ -76,3 +77,7 @@ Ces chiffres sont des résultats d'une exécution de référence, à reproduire 
 3. Le dataset peut ne pas être représentatif de la population cible.
 4. Les variables `city` et `income_bracket` peuvent introduire des biais.
 5. Aucune conclusion clinique ne doit être tirée de ce prototype.
+=======
+# prediction-du-risque-de-diabete-avec-une-infrastructure-MLOps
+Projet de session : prédiction du risque de diabète avec une infrastructure MLOps
+>>>>>>> b78b75f5b615b81f0a8068d8b66a120843ec0a22
